@@ -1,3 +1,5 @@
+//Day_3 Assignment_3
+
 package letsUpgrade;
 import java.util.Scanner;
 public class ArrayWithUserInput {
